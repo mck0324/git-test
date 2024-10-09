@@ -2,6 +2,5 @@ function ttt() {
     return "ttt";
 }
 function Td(a,b) {
-    const test = a * b;
-    return "FIX That";
+    return "FIX That FIX FIX FIX";
 }
