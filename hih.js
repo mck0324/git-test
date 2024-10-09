@@ -2,5 +2,5 @@ function ttt() {
     return "ttt";
 }
 function Td(a,b) {
-    return "FIX";
+    return "FIX THAT TEAM";
 }
